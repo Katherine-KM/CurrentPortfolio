@@ -73,6 +73,14 @@ header {
     }
 }
 
+@media screen and (max-width: 350px) {
+
+    .me {
+        width: 19rem;
+        left: calc(50% - 9.5rem);
+    }
+}
+
 
 /* Minimum height */
 @media (max-height: 850px) {
