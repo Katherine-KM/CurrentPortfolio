@@ -1,5 +1,6 @@
 header {
     height: 100vh; 
+    min-height: 900px; 
     padding-top: 5rem;
     overflow: hidden;
 }
@@ -71,3 +72,11 @@ header {
         display: none; 
     }
 }
+
+
+/* Minimum height */
+@media (max-height: 850px) {
+    header {
+        padding-top: 3rem; 
+    }
+  }
