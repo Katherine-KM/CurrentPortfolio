@@ -1,9 +1,37 @@
 import React from 'react'
 import './contact.css'
+import {FaGithub} from 'react-icons/fa'
+import {BsTwitter} from 'react-icons/bs'
+import {BsLinkedin} from 'react-icons/bs'
 
 const Contact = () => {
   return (
-    <section id="contact">Contact</section>
+    <section id="contact">
+      <h5>Get In Touch</h5>
+      <h2>Contact Me</h2>
+      <div className="container contact-container">
+        <div className="contact-options-container">
+          <div className="contact-text-content">
+            <h3>Thank you for checking out my work!</h3>
+            <p> If you like what you see, I am open to software engineer positions, collabs, projects, and coffee chats! I look forward to speaking with you. </p>
+            <div className="contact-icon-container">
+              <a href="#"><BsLinkedin className='contact-icon'/></a>
+              <h5> Connect on LinkedIn </h5>
+              <a href="#"><BsTwitter className='contact-icon'/></a>
+              <h5> Follow me on Twitter </h5>
+              <a href="#"><FaGithub className='contact-icon'/></a>
+              <h5> Check Out My GitHub </h5>
+            </div>
+          </div>
+        </div>
+        <form id="contact-form-netlify" data-netlify='true'>
+          <input type="text" name='name' placeholder='Your Full Name' required />
+          <input type="text" name="email" placeholder='Your Email' required />
+          <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
+          <button type='submit' className='btn btn-primary'>Send Message</button>
+        </form>
+      </div>
+    </section>
   )
 }
 
