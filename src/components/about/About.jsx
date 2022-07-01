@@ -19,27 +19,13 @@ const About = () => {
         </div>
 
         <div className="about-content">
-          <div className="about-cards">
-            <article className='about-card'>
-              <FaAward className="about-icon" />
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
-            </article>
-
-            <article className='about-card'>
-              <FiUsers className="about-icon" />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
-            </article>
-
-            <article className='about-card'>
-              <VscFolderLibrary className="about-icon" />
-              <h5>Projects</h5>
-              <small>80+ Completed</small>
-            </article>
-          </div>
+          <q> If You Do What You Love Then You Will Never Work a Day In Your Life. </q>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea, ullam facere? Adipisci obcaecati deserunt eaque voluptatem neque molestias, soluta dignissimos laborum ea voluptates architecto, minus sit ipsam atque at doloremque!
+            I am a software engineer dedicated to building and enhancing software to make people's days better, simpler, and more enjoyable. 
+          </p>
+
+          <p>
+            Due to my previous work in the health field, I am acutely aware of the importance of accessibility, reliability, and innovation in tech. Now, through my work as a software engineer, I devote my time to building applications that bring about a change in the world a little bit at a time.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
