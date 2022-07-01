@@ -15,11 +15,11 @@ const Contact = () => {
             <h3>Thank you for checking out my work!</h3>
             <p> If you like what you see, I am open to software engineer positions, collabs, projects, and coffee chats! I look forward to speaking with you. </p>
             <div className="contact-icon-container">
-              <a href="#"><BsLinkedin className='contact-icon'/></a>
+              <a href="https://www.linkedin.com/in/katherinemarcott/"><BsLinkedin className='contact-icon'/></a>
               <h5> Connect on LinkedIn </h5>
-              <a href="#"><BsTwitter className='contact-icon'/></a>
+              <a href="https://twitter.com/CodingKatCodes"><BsTwitter className='contact-icon'/></a>
               <h5> Follow me on Twitter </h5>
-              <a href="#"><FaGithub className='contact-icon'/></a>
+              <a href="https://github.com/KatherineMarcott"><FaGithub className='contact-icon'/></a>
               <h5> Check Out My GitHub </h5>
             </div>
           </div>
