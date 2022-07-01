@@ -1,9 +1,6 @@
 import React from 'react'
 import './about.css'
 import ME from '../../assets/me3.png'
-import {FaAward} from 'react-icons/fa'
-import {VscFolderLibrary} from 'react-icons/vsc'
-import {FiUsers} from 'react-icons/fi'
 
 const About = () => {
   return (
