@@ -3,7 +3,9 @@ import './footer.css'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>
+      <span> Copyright © 2022 Katherine Marcott - All Rights Reserved. </span>
+    </footer>
   )
 }
 
