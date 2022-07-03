@@ -18,8 +18,8 @@
     background: transparent;
 }
 
-.portfolio-item-image {
-    border-radius: 1.5rem;
+.portfolio-item-image video {
+    border-radius: 2.5rem;
     overflow: hidden; 
 }
 

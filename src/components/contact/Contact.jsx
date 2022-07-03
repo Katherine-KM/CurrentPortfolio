@@ -24,7 +24,7 @@ const Contact = () => {
             </div>
           </div>
         </div>
-        <form id="contact-form-netlify" name="Contact" netlify>
+        <form id="contact-form-netlify" name="Contact" data-netlify='true'>
           <input type="text" name='name' placeholder='Your Full Name' required />
           <input type="text" name="email" placeholder='Your Email' required />
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
@@ -36,3 +36,4 @@ const Contact = () => {
 }
 
 export default Contact
+
