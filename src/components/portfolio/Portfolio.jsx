@@ -1,6 +1,5 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
 import PROJECT1 from '../../assets/barbershop.webm'
 import PROJECT2 from '../../assets/topflight.webm'
 import PROJECT3 from '../../assets/businesscard.webm'
