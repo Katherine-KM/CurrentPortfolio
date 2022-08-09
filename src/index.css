@@ -38,6 +38,9 @@ body {
 }
 
 /* General Styles */
+.none {
+    display: none;
+}
 
 #about, #contact, #portfolio, #skills {
     height: fit-content;
