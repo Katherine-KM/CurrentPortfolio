@@ -1,8 +1,7 @@
 # Portfolio-2022 : <a target="_blank" href="https://katherinemarcott.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://katherinemarcott.netlify.app/">
-<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true"></img>
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/96846178/211113146-50415fcc-eb73-447c-9ddd-53acd4365593.PNG" width="100%" alt="portfolio">
 </a>
 
 ### Portfolio Site including links to my projects and ways to get in contact with me.
