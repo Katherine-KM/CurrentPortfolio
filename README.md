@@ -1,6 +1,6 @@
 # Portfolio-2022 : <a target="_blank" href="https://katherinek.netlify.app/">Visit Here</a>
 
-<a target="_blank" href="https://katherinemarcott.netlify.app/">
+<a target="_blank" href="https://katherinek.netlify.app/">
           <img src="https://user-images.githubusercontent.com/96846178/211113146-50415fcc-eb73-447c-9ddd-53acd4365593.PNG" width="100%" alt="portfolio">
 </a>
 
